@@ -1,0 +1,502 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+.nav {
+    background-color: rgb(77, 77, 77);
+    height: 35px;
+    text-align: center;
+    justify-content: center;
+}
+
+.menu {
+    display: flex;
+    position: relative;
+    padding-left: 300px;
+}
+
+ul,
+li,
+a {
+    list-style-type: none;
+    text-decoration: none;
+    color: rgb(194, 194, 194);
+    align-content: space-between;
+    padding-right: 15px;
+    padding-top: 5px;
+    font-size: 9px;
+}
+
+.phone {
+    height: 450px;
+    width: 100%;
+    background-color: black;
+}
+
+.header_image {
+    width: 55%;
+    height: 400px;
+    padding-left: 315px;
+    padding-top: 50px;
+}
+
+.link {
+    background-color: aliceblue;
+    height: 35px;
+    font-size: 10px;
+    text-align: center;
+    align-content: center;
+    font-family: arial;
+}
+
+.blue {
+    color: rgb(8, 152, 223);
+}
+
+.phone_heading {
+    font-size: 45px;
+    color: white;
+    margin-top: -400px;
+    padding-left: 40%;
+    font-weight: 500;
+    font-family: sans-serif;
+}
+
+.sub {
+    font-size: 17px;
+    padding-left: 65px;
+}
+
+.sub_content {
+    color: rgb(74, 74, 222);
+    font-size: 12px;
+    padding-left: 55px;
+    font-family: sans-serif;
+}
+
+.muli_phone {
+    color: black;
+    margin-top: 350px;
+    font-size: 40px;
+    padding-left: 570px;
+    font-weight: 500;
+    font-family: sans-serif;
+}
+
+.sub_heading {
+    font-size: 20px;
+    padding-left: 610px;
+    font-family: sans-serif;
+}
+
+.sub_content_2 {
+    color: rgb(8, 152, 223);
+    font-size: 14px;
+    padding-left: 580px;
+    font-family: sans-serif;
+}
+
+.i_phone {
+    padding-left: 300px;
+    margin-top: 15px;
+}
+
+.watch_series_8 {
+    height: 450px;
+    background-color: black;
+}
+
+.main {
+    font-family: sans-serif;
+}
+
+.color {
+    color: white;
+    padding-left: 580px;
+    margin-top: 50px;
+    font-size: 25px;
+    letter-spacing: 2px;
+}
+
+.series_color {
+    color: red;
+    font-family: Lucida Sans Unicode;
+    letter-spacing: 2px;
+    padding-left: 630px;
+    margin-top: 5px;
+    font-size: 12px;
+}
+
+.watch_sub_content {
+    color: white;
+    padding-left: 565px;
+    margin-top: 10px;
+    font-family: Arial;
+    font-size: 20px;
+}
+
+.apple-watch {
+    height: 260px;
+    margin-top: 26px;
+    padding-left: 450px;
+}
+
+.part {
+    margin: 10px;
+
+}
+
+.first {
+    display: flex;
+    position: relative;
+    height: 420px;
+}
+
+.setup {
+    height: 250px;
+    margin-top: 50px;
+    width: 100%;
+}
+
+.one {
+    background-color: rgb(250, 247, 247);
+    border: 1px solid rgb(250, 247, 247);
+    height: 410px;
+    width: 50%;
+    margin-right: 10px;
+    font-family: sans-serif;
+}
+
+.trade {
+    font-size: 20px;
+    padding-left: 250px;
+    padding-top: 40px;
+}
+
+span {
+    font-size: 24px;
+    font-weight: 700;
+    font-family: sans-serif;
+}
+
+.save {
+    padding-left: 190px;
+    font-size: 15px;
+}
+
+.device {
+    font-size: 12px;
+    color: rgb(59, 59, 252);
+    padding-left: 200px;
+}
+
+.setup_2 {
+    height: 200px;
+    margin-top: 70px;
+    width: 480px;
+    padding-left: 80px;
+}
+
+.two {
+    background-color: black;
+    border: 1px solid black;
+    height: 410px;
+    width: 50%;
+}
+
+.second {
+    display: flex;
+    position: relative;
+    height: 420px;
+}
+
+.writing {
+    color: white;
+    margin-top: 150px;
+    font-size: 30px;
+    font-family: sans-serif;
+}
+
+.white {
+    color: white;
+    margin-left: -300px;
+    font-size: 30px;
+}
+
+.sub_line {
+    color: white;
+    font-size: 14px;
+    text-align: center;
+    padding-top: 5px;
+    font-family: sans-serif;
+}
+
+.spac {
+    padding-top: 10px;
+    padding-left: 540px;
+}
+
+.setup_3 {
+    height: 320px;
+    width: 450px;
+    padding-left: 80px;
+}
+
+.three {
+    background-color: rgb(250, 247, 247);
+    border: 1px solid rgb(250, 247, 247);
+    height: 410px;
+    width: 50%;
+    margin-right: 10px;
+    font-family: sans-serif;
+}
+
+.ipad {
+    font-size: 30px;
+    padding-left: 280px;
+    margin-top: 25px;
+}
+
+.drawable {
+    padding-left: 227px;
+    font-size: 14px;
+}
+
+.learn {
+    padding-left: 240px;
+    font-size: 12px;
+    margin-top: -10px;
+    color: rgb(82, 82, 246);
+}
+
+.setup_4 {
+    height: 170px;
+    margin-top: 70px;
+    width: 450px;
+    padding-left: 80px;
+}
+
+.four {
+    background-color: black;
+    border: 1px solid black;
+    height: 410px;
+    width: 50%;
+    font-family: sans-serif;
+}
+
+.mackbook {
+    color: white;
+    font-size: 25px;
+    text-align: center;
+    margin-top: 30px;
+}
+
+.m_pro {
+    font-size: 16px;
+    padding-left: 190px;
+    color: white;
+    padding-top: 5px;
+}
+
+.third {
+    display: flex;
+    position: relative;
+    height: 420px;
+}
+
+.setup_5 {
+    height: 230px;
+    margin-top: 30px;
+    width: 400px;
+    padding-left: 80px;
+    padding-right: 10px;
+}
+
+.five {
+    background-color: rgb(251, 249, 249);
+    border: 1px solid rgb(251, 249, 249);
+    height: 410px;
+    width: 50%;
+    margin-right: 10px;
+    font-family: sans-serif;
+}
+
+.bords {
+    color: black;
+    font-size: 25px;
+    margin-top: 25px;
+    text-align: center;
+    font-weight: 700;
+}
+
+.thanks {
+    padding-left: 240px;
+    font-size: 14px;
+}
+
+.gift {
+    color: rgb(82, 82, 246);
+    padding-left: 245px;
+    font-size: 11px;
+}
+
+.setup_6 {
+    height: 250px;
+    margin-top: 30px;
+    width: 400px;
+    padding-left: 110px;
+}
+
+.six {
+    background-color: rgb(251, 249, 249);
+    border: 1px solid rgb(251, 249, 249);
+    height: 410px;
+    width: 50%;
+    font-family: sans-serif;
+}
+
+.card {
+    text-align: center;
+    font-size: 25px;
+    margin-top: 25px;
+}
+
+.card_cont {
+    font-size: 30px;
+}
+
+.cash_back {
+    text-align: center;
+    font-size: 12px;
+    margin-top: 5px;
+}
+
+.apply {
+    color: rgb(82, 82, 246);
+    text-align: center;
+    font-size: 13px;
+    margin-top: -10px;
+}
+
+.set_image {
+    height: 420px;
+    width: 840px;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+.left_image {
+    height: 420px;
+}
+
+.dot {
+    border-radius: 100%;
+    height: 5px;
+    width: 5px;
+    position: absolute;
+}
+
+.movienig {
+    position: relative;
+    background-color: gray;
+    border: 1px solid gray;
+    margin-left: 550px;
+    display: flex;
+    margin-top: 5px;
+}
+
+.dot_2 {
+    background-color: rgb(142, 141, 141);
+    border: 1px solid rgb(142, 141, 141);
+    margin-left: 560px;
+}
+
+.conteiner_content {
+    border: 1px solid rgba(235, 234, 234, 0.915);
+    background-color: rgba(235, 234, 234, 0.915);
+    margin-top: 20px;
+    padding-top: 15px;
+    height: 650px;
+}
+
+.last {
+    font-size: 7px;
+    text-align: justify;
+    padding-left: 270px;
+    color: gray;
+}
+
+.shope_and {
+    color: rgb(71, 70, 70);
+
+}
+
+.shope {
+    font-size: 10px;
+    color: gray;
+    padding-left: 280px;
+    padding-top: 10px;
+}
+
+.blank {
+    background-color: rgb(38, 38, 38);
+    height: 100px;
+}
+
+.account {
+    font-size: 10px;
+    color: gray;
+    padding-left: 425px;
+    margin-top: -360px;
+
+}
+
+.apple_store {
+    font-size: 10px;
+    color: gray;
+    padding-left: 575px;
+    margin-top: -330px;
+}
+
+.for_bussines {
+    font-size: 10px;
+    color: gray;
+    padding-left: 725px;
+    margin-top: -260px;
+}
+
+.apple_values {
+    font-size: 10px;
+    color: gray;
+    padding-left: 885px;
+    margin-top: -350px;
+}
+
+.more_ways {
+    font-size: 12px;
+    color: gray;
+    padding-left: 280px;
+    padding-top: 20px;
+}
+
+.underline {
+    color: rgb(82, 82, 246);
+    ;
+}
+
+.hr_space {
+    padding-left: 200px;
+    padding-top: 20px;
+}
+
+.horizontal {
+    margin-left: 280px;
+    margin-top: 5px;
+}
+
+.last_footer {
+    color: gray;
+    font-size: 9px;
+    margin-left: 280px;
+}
